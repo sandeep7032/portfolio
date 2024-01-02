@@ -1,0 +1,32 @@
+.skills-div {
+  margin: 20px auto;
+  width: 80%;
+  display: block;
+  justify-content: center;
+  margin-top: 120px;
+}
+
+.skills-div h1 {
+  margin-bottom: 10px;
+}
+
+.skills-div img {
+  height: 90px;
+  width: 90px;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #0ef;
+  background-color: white;
+}
+
+.skills-div img:hover {
+  box-shadow: 0 0 20px #0ef;
+  transition: 0.5s;
+}
+
+.skills-div h1 {
+  opacity: 0;
+  animation: Bottom 1s ease forwards;
+  animation-delay: 1s;
+}
