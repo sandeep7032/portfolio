@@ -28,7 +28,7 @@ const Social = () => {
       </Link>
       <div className="btn-div">
         <Link
-          to="https://drive.google.com/file/d/1qkBG2KNs38tksdZiZd-iEz_SWTLyp2Pu/view?usp=sharing"
+          to="https://drive.google.com/file/d/1RebbpZwwYqiRA36ZzaB8r74SOO8l7r8A/view?usp=sharing"
           target="_blank"
         >
           <button className="btn">Resume</button>
