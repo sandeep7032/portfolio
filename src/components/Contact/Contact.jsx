@@ -57,7 +57,7 @@ const Contact = () => {
           "service_lj01fcb",
           "template_72ueyyq",
           e.target,
-          "zBH9M6z7_0dd7FkTN"
+          "ztsGrnSz7JAta8blb"
         )
         .then(
           (result) => {
